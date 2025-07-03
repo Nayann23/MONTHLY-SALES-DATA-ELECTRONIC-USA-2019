@@ -34,6 +34,7 @@ Though marked as "incomplete", the work completed covers full data cleaning, fea
 
 ```
 
+---
 
 ## 📊 Key Features Extracted
 
@@ -68,38 +69,24 @@ streamlit run dashboard.py
 
 ---
 
-## 🎓 What I Learned
+## 🎓 What Was Done
 
-- How to work with **multiple CSV files** programmatically.
-- Advanced `pandas` manipulation, including `str.split()`, `dt` accessors, and grouping.
-- **Data visualization** using `matplotlib` and `seaborn`.
-- How to clean, structure, and engineer features from messy raw data.
-- Built and launched a **Streamlit dashboard**.
-- Practiced a real-life data project workflow end-to-end.
-
----
-
-## ✅ Next Steps (Future Improvements)
-
-- Add product category analysis
-- Include customer behavior insights (repeat orders, popular times)
-- Add filters to Streamlit dashboard (by city, product)
-- Connect with Excel for additional reporting
+- Worked with **multiple CSV files** programmatically
+- Applied advanced `pandas` techniques for cleaning and transformation
+- Created meaningful visualizations using `matplotlib` and `seaborn`
+- Extracted key business insights (product, city, time-based)
+- Built a basic, functional **Streamlit dashboard**
+- Followed a real-world data project workflow from raw data to visualization
 
 ---
 
-## 🧩 Status
+## ✅ Project Status
 
-This project is being marked as **"incomplete but complete enough"**. It serves as a learning checkpoint before shifting to Excel studies. It showcases my ability to:
-
-- Handle real-world datasets
-- Perform data cleaning & transformation
-- Visualize insights
-- Deploy basic dashboards
+Marked as **incomplete**, but functionally includes core EDA, feature engineering, visual insights, and dashboard capabilities. Can be extended further with filters, deeper analytics, and category-based insights.
 
 ---
 
-## 📚 Tools Used
+## 🧰 Tools Used
 
 - Python 3.10+
 - pandas
@@ -108,4 +95,3 @@ This project is being marked as **"incomplete but complete enough"**. It serves 
 - Streamlit
 
 ---
-
